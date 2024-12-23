@@ -28,7 +28,7 @@ main {
   color: white;
   width: 80%;
   margin: auto;
-  padding: 2rem 0rem;
+  padding: 2rem 0rem 0rem 0rem;
   z-index: 2;
   position: relative;
 }
@@ -45,7 +45,7 @@ main {
 .slide {
   min-height: 100vh;
   margin: 0 auto 0 auto;
-  width: 80%;
+  width: 75%;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -58,7 +58,7 @@ main {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
+  align-items: left;
   flex: 1;
   flex-basis: 25rem;
   padding-left: 5rem;
@@ -90,11 +90,11 @@ main {
 
 .hero-desc h2 {
   font-family: "Abril Fatface";
-  font-size: 4rem;
+  font-size: 3rem;
 }
 .hero-desc p {
   padding: 3rem 0;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   color: aliceblue;
 }
 .explore {
