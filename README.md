@@ -16,16 +16,10 @@ Check out the live website: [Lifestyle Website Portfolio](https://ahmednadeemgon
 - **GSAP**: For high-performance animations.
 
 ## Installation
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/AhmedNadeemGondal/lifestyle-website-portfolio.git
    ```
-2. Navigate to the project directory:
-   ```bash
-   cd lifestyle-website-portfolio
-   ```
-3. Open `index.html` in your browser to view the website locally.
-
 ## Usage
 - Explore the animations as you scroll through the website.
 
