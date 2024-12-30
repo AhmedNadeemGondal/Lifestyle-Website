@@ -29,6 +29,3 @@ The website is deployed using GitHub Pages.
 ## Acknowledgments
 - **GSAP** ([GreenSock Animation Platform](https://greensock.com/)) for its powerful animation tools.
 - **ScrollMagic** for enabling scroll-triggered animations.
-
-## License
-This project is licensed under the MIT License.
